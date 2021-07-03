@@ -1,0 +1,11 @@
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.Cache
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.admin.resources
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.customer.resources
+C:\Users\Akash\Desktop\project1\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.employee.resources
